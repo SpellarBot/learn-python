@@ -8,7 +8,7 @@ You can loop over a copy of the underlying data store:
 for elem in list(q.queue)
 ```
 
-Eventhough this bypasses the locks for `Queue` objects, the list copy is an atomic operation and it should work out fine.
+Even though this bypasses the locks for `Queue` objects, the list copy is an atomic operation and it should work out fine.
 
 
 

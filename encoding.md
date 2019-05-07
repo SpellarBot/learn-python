@@ -16,7 +16,7 @@ Unicode: every character from every language
 
 - UTF32
     - advantage: 
-    - disavantage:
+    - disadvantage:
 - UTF16
     - advantage
     - disadvantage

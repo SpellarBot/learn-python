@@ -126,7 +126,7 @@ Here are the precise rules for sending objects around:
 
 - `g.switch(*args, **kwargs)`: Switches execution to the greenlet `g`. 
 - `g.run`: The callable that `g` will run when it starts. After `g` started, this attribute no longer exists.
-- `g.parent`: The parent greenlet. This is writeable, but it is not allowed to create cycles of parents.
+- `g.parent`: The parent greenlet. This is writable, but it is not allowed to create cycles of parents.
 - `g.gr_frame`: The current top frame, or None.
 - `g.dead`: True if `g` is dead (i.e. it finished its execution).
 - `bool(g)`: True if `g` is active, False if it is dead or not yet started.

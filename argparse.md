@@ -77,7 +77,7 @@ If you want to display the help text of the `ls` command, you would type "`ls --
 - type
 - action
     - store
-    - store_true: if the option is specifed, then assign the value "True" to the argument
+    - store_true: if the option is specified, then assign the value "True" to the argument
 - default
 - dest
 

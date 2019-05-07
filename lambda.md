@@ -18,7 +18,7 @@ old_add(10, 5) == new_add(10, 5)
 >> True
 ```
 
-The `lambda` expression takes in a **comma seperated** sequences of inputs (like `def`). Then, immediately following **the colon**, it returns **the expression** without using an explicit `return` statement. Finally, when assigning **the lambda expression** to **a variable**, it acts exactly like a Python function, and can be called using the the function call syntax: `new_add()`.
+The `lambda` expression takes in a **comma separated** sequences of inputs (like `def`). Then, immediately following **the colon**, it returns **the expression** without using an explicit `return` statement. Finally, when assigning **the lambda expression** to **a variable**, it acts exactly like a Python function, and can be called using the the function call syntax: `new_add()`.
 
 > 参数：以comma分隔 各个参数 
 > colon：  分隔 参数 和 函数体

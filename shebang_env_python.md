@@ -29,7 +29,7 @@ A common use of the `env` command is to launch interpreters, by making use of th
 ```
 instead of trying to guess whether it is `/bin/perl`, `/usr/bin/perl`, `/usr/local/bin/perl`, `/usr/local/pkg/perl`, `/fileserver/usr/bin/perl`, or `/home/MrDaniel/usr/bin/perl` on the user's system...
 
-On the other hand, `env` is almost always in `/usr/bin/env`. (Except in cases when it isn't; some systems might use `/bin/env`, but that's a fairly rare occassion and only happens on non-Linux systems.)
+On the other hand, `env` is almost always in `/usr/bin/env`. (Except in cases when it isn't; some systems might use `/bin/env`, but that's a fairly rare occasion and only happens on non-Linux systems.)
 
 Correct usage for Python 3 scripts is:
 

@@ -157,7 +157,7 @@ Where Am I?
 
 Frame Stack Control
 
-`up`, `down`: navigating the frame statck
+`up`, `down`: navigating the frame stack
 
 ### Examining Variables on the Stack (Displaying things)
 

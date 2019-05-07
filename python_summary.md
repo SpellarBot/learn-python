@@ -47,7 +47,7 @@ coroutine
 
 
 
-cocurrency
+concurrency
 
     thread：要解决的核心问题是什么呢？
     process

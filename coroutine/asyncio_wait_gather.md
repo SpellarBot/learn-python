@@ -6,7 +6,7 @@ URL: https://stackoverflow.com/questions/42231161/asyncio-gather-vs-asyncio-wait
 
 As the name suggests, `asyncio.gather` mainly focuses on **gathering the results**. it waits on a bunch of futures and return their results in a given order.
 
-`asyncio.wait` **just waits on the futures**. and instead of giving you the results directly, it gives done and pending tasks. **you have to mannually collect the values**.
+`asyncio.wait` **just waits on the futures**. and instead of giving you the results directly, it gives done and pending tasks. **you have to manually collect the values**.
 
 
 

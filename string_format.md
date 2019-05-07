@@ -29,7 +29,7 @@ The `file` argument must be an object with a `write(string)` method; if it is no
 
 Whether output is buffered is usually determined by file, but if the `flush` keyword argument is `true`, the stream is forcibly flushed.
 
-## print with seporator
+## print with separator
 
 We used `print` with **a comma** separated list of values to print out the results.
 
@@ -69,7 +69,7 @@ Output:
 
 ## Old Style: Using `%`
 
-The modulo operator "`%`" is overloaded by the string class to perform string formatting. Therefore, it is often called **string modulo** (or somethimes even called modulus) **operator**, though it has not a lot in common with the actual modulo calculation on numbers. 
+The modulo operator "`%`" is overloaded by the string class to perform string formatting. Therefore, it is often called **string modulo** (or sometimes even called modulus) **operator**, though it has not a lot in common with the actual modulo calculation on numbers. 
 
 Since **Python 2.6** has been introduced, the string method `format` should be used instead of **this old-style formatting**. Unfortunately, string modulo "`%`" is still available in Python3 and what is even worse, it is still widely used. That's why we cover it in great detail in this tutorial. You should be capable of understanding it, when you encounter it in some Python code. But it is very likely that one day this old style of formatting will be removed from the language. So you should get used to `str.format()`. 
 

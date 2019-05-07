@@ -4,7 +4,7 @@
 
 > 只要是人，都是依靠自己的**知识**与**认知**并且也被之束缚的生活着的，那就叫做现实，但是知识和认知是暧昧不清的东西，现实也许也只是镜花水月，人都是活在自己的执念中的，你不这么认为吗？——《火影忍者》宇智波鼬
 
-> All people live relying on their knowledge and perception and are thus bound to them. Those boundaries are what they tend to accept as "Reality". However, knowledge and perception are both ambigous, so "Reality" could be nothing more than an illusion. Pepole live trapped by their limited perception, do you see?
+> All people live relying on their knowledge and perception and are thus bound to them. Those boundaries are what they tend to accept as "Reality". However, knowledge and perception are both ambigous, so "Reality" could be nothing more than an illusion. People live trapped by their limited perception, do you see?
 
 Reference: https://www.mangapanda.com/naruto/385/6
 
